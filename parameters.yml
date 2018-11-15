@@ -1,0 +1,4 @@
+Parameters:
+  RepositoryName:
+    Type: String
+    Default: infrastructure_repo
